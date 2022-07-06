@@ -2,7 +2,7 @@
 
 Repositório criado para Postar o Desafio 01 proposto em aula
 
-Conteúdo do Código:
-Menu Principal com logo/Cabeçalho
-Texto explicativo central junto com campo input que coleta informações
-Rodapé com nome
+Conteúdo do Código:</br>
+Menu Principal com logo/Cabeçalho </br>
+Texto explicativo central junto com campo input que coleta informações</br>
+Rodapé com nome</br>
